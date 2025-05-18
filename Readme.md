@@ -2,12 +2,12 @@
 
 1. Clone the project
 ```
- git clone PATH <project_name>
+ git clone https://github.com/niladriSen007/Node-Express-Ts-Template.git <your_project_name>
 ```
 
 2. Go to the project directory
 ```
-cd <project_name>
+cd <your_project_name>
 ```
 
 3. Install the dependencies
